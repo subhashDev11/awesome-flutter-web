@@ -11,8 +11,11 @@ A curated list of awesome open-source projects, libraries, and resources for Flu
 
 #### 🎨 Design & Portfolio
 - [Flutter Portfolio](https://github.com/Manuel8114/Flutter-Portfolio) - A portfolio website built with Flutter Web.
-- [Personal Web](https://github.com/HassanElDesouky/Personal-Web) - A personal website built with Flutter Web.
+- [subhash-portfolio](https://github.com/subhashDev11/subhash-portfolio) - A personal website built with Flutter Web.
 
+#### 🎨 Blogs & Articles
+- [Medium clone](https://github.com/subhashDev11/flutter_web_blog_website) - A bloging website built with Flutter Web & Firebase.
+  
 #### 🎮 Games & Fun
 - [Flutter Flip](https://github.com/GeovannyDias/flutter_flip) - A card-matching memory game.
 - [Snake Game](https://github.com/The-Alchemist/snake_game_flutter_web) - A classic snake game built with Flutter Web.
