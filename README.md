@@ -3,7 +3,6 @@
 A curated list of awesome open-source projects, libraries, and resources for Flutter Web.
 
 ## 🌟 Projects
-# 🌟 Flutter Web Open Source Projects
 
 ## 🎮 Open-Source Flutter Web Apps
 
