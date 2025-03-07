@@ -4,6 +4,19 @@ A curated list of awesome open-source projects, libraries, and resources for Flu
 
 ## 🌟 Projects
 
+### 🎮 Open-Source Flutter Web Apps
+#### 📖 Productivity & Utilities
+- [Flutterfolio](https://github.com/gskinnerTeam/flutter-folio) - A scrapbook app built with Flutter Web.
+- [DevTools](https://github.com/flutter/devtools) - Performance and debugging tools for Flutter.
+
+#### 🎨 Design & Portfolio
+- [Flutter Portfolio](https://github.com/Manuel8114/Flutter-Portfolio) - A portfolio website built with Flutter Web.
+- [Personal Web](https://github.com/HassanElDesouky/Personal-Web) - A personal website built with Flutter Web.
+
+#### 🎮 Games & Fun
+- [Flutter Flip](https://github.com/GeovannyDias/flutter_flip) - A card-matching memory game.
+- [Snake Game](https://github.com/The-Alchemist/snake_game_flutter_web) - A classic snake game built with Flutter Web.
+
 ### 🏗 Frameworks & Templates
 - [Flutter Web Boilerplate](https://github.com/pinglinh/flutter-web-boilerplate) - A starter template for Flutter Web apps.
 - [Flutter Responsive Admin Panel](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - A fully responsive admin dashboard template.
@@ -26,19 +39,6 @@ A curated list of awesome open-source projects, libraries, and resources for Flu
 ### 🎥 Videos & Tutorials
 - [Flutter Web Crash Course](https://www.youtube.com/watch?v=Z2zUCJAkpZA)
 - [Building a Portfolio Website in Flutter Web](https://www.youtube.com/watch?v=6r0zJLUuvT8)
-
-### 🎮 Open-Source Flutter Web Apps
-#### 📖 Productivity & Utilities
-- [Flutterfolio](https://github.com/gskinnerTeam/flutter-folio) - A scrapbook app built with Flutter Web.
-- [DevTools](https://github.com/flutter/devtools) - Performance and debugging tools for Flutter.
-
-#### 🎨 Design & Portfolio
-- [Flutter Portfolio](https://github.com/Manuel8114/Flutter-Portfolio) - A portfolio website built with Flutter Web.
-- [Personal Web](https://github.com/HassanElDesouky/Personal-Web) - A personal website built with Flutter Web.
-
-#### 🎮 Games & Fun
-- [Flutter Flip](https://github.com/GeovannyDias/flutter_flip) - A card-matching memory game.
-- [Snake Game](https://github.com/The-Alchemist/snake_game_flutter_web) - A classic snake game built with Flutter Web.
 
 ## 🌍 Community & Resources
 - [Flutter Web Official Docs](https://docs.flutter.dev/platform-integration/web)
