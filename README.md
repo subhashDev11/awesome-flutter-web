@@ -8,17 +8,32 @@ A curated list of awesome open-source projects, libraries, and resources for Flu
 #### 📖 Productivity & Utilities
 - [Flutterfolio](https://github.com/gskinnerTeam/flutter-folio) - A scrapbook app built with Flutter Web.
 - [DevTools](https://github.com/flutter/devtools) - Performance and debugging tools for Flutter.
+- [Flutter Admin](https://github.com/cairuoyu/flutter_admin) - A minimal admin panel for Flutter Web.
+- [Responsive Admin Panel](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - A fully responsive admin dashboard template.
+- [Explore](https://github.com/sbis04/explore) - A Flutter Web app to explore various UI components.
+- [Easy Web View](https://github.com/rodydavis/easy_web_view) - A web view utility for embedding content.
 
 #### 🎨 Design & Portfolio
 - [Flutter Portfolio](https://github.com/Manuel8114/Flutter-Portfolio) - A portfolio website built with Flutter Web.
 - [subhash-portfolio](https://github.com/subhashDev11/subhash-portfolio) - A personal website built with Flutter Web.
+- [Web Portfolio](https://github.com/radyhaggag/web_portfolio_with_flutter) - A stunning portfolio built with Flutter Web.
+- [Flutter Minimal Website](https://github.com/Codelessly/FlutterMinimalWebsite) - A minimal portfolio website.
+- [Flutter Website](https://github.com/Codelessly/FlutterWebsite) - A simple and modern website template.
 
-#### 🎨 Blogs & Articles
-- [Medium clone](https://github.com/subhashDev11/flutter_web_blog_website) - A bloging website built with Flutter Web & Firebase.
-  
-#### 🎮 Games & Fun
-- [Flutter Flip](https://github.com/GeovannyDias/flutter_flip) - A card-matching memory game.
-- [Snake Game](https://github.com/The-Alchemist/snake_game_flutter_web) - A classic snake game built with Flutter Web.
+#### 📰 Blogs & Articles
+- [Medium Clone](https://github.com/subhashDev11/flutter_web_blog_website) - A blogging website built with Flutter Web & Firebase.
+
+#### 🍽️ Food & E-Commerce
+- [Food App UI](https://github.com/abuanwar072/Flutter-Web---Food-App-UI) - A responsive food delivery UI built with Flutter Web.
+
+#### 🎶 Music & Entertainment
+- [Flutter Web Music UI](https://github.com/imSanjaySoni/Flutter-web-Music-UI) - A music player UI built using Flutter Web.
+- [Miru App](https://github.com/miru-project/miru-app) - A collaborative video-sharing platform built using Flutter Web.
+
+#### 📬 Messaging & Communication
+- [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app?tab=readme-ov-file) - A cross-platform messaging app with Flutter Web support.
+
+---
 
 ### 🏗 Frameworks & Templates
 - [Flutter Web Boilerplate](https://github.com/pinglinh/flutter-web-boilerplate) - A starter template for Flutter Web apps.
