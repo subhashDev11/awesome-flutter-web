@@ -4,7 +4,7 @@ A curated list of awesome open-source projects, libraries, and resources for Flu
 
 ## 🌟 Projects
 
-### 🎮 Open-Source Flutter Web Apps
+### Open-Source Flutter Web Apps
 #### 📖 Productivity & Utilities
 - [Flutterfolio](https://github.com/gskinnerTeam/flutter-folio) - A scrapbook app built with Flutter Web.
 - [DevTools](https://github.com/flutter/devtools) - Performance and debugging tools for Flutter.
